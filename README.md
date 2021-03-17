@@ -8,7 +8,7 @@ Starter Pack for [Tailwind CSS](https://github.com/tailwindcss/tailwindcss) with
 
 ## Install Dependencies
 
-Install the dependencies (gulp, gulp-sass, browser-sync, etc)
+Install the dependencies (gulp, gulp-dart-sass, browser-sync, etc)
 
 ```bash
 npm install 
